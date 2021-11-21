@@ -46,8 +46,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github :
-│ Owner: https://wa.me/6281234816037
+│ Owner: https://wa.me/6289526350998
 │ Owner: https://wa.me/6289526350998
 ╰────
 %readmore`.trimStart(),
